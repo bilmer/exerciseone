@@ -1,0 +1,37 @@
+<!-- The second value will be selected initially -->
+<select name="select">
+  <option value="value1">Lite</option> 
+  <option value="value2" selected>Regular</option>
+  <option value="value3">Super</option>
+  <option value="value4">Super Plus</option>
+  <option value="value5">Active</option>
+  <option value="value6">Compak</option>
+  <option value="value7">Active Super</option>
+</select>
+
+<select name="select">
+  <option value="value1">Regular</option> 
+  <option value="value2" selected>Super</option>
+  <option value="value3">Super Plus</option>
+</select>
+
+<select name="select">
+  <option value="value1">Regular Click</option> 
+  <option value="value2" selected>Super Click</option>
+  <option value="value3">Super Plus Click</option>
+  <option value="value4">Sleek Regular</option>
+  <option value="value5">Sleek Super</option>
+  <option value="value6">Sleek Super Plus</option>
+</select>
+
+<select name="select">
+  <option value="value1">Regular</option> 
+  <option value="value2" selected>Super</option>
+  <option value="value3">Super Plus</option>
+</select>
+
+<select name="select">
+  <option value="value1">Gentle Glide - Regular</option> 
+  <option value="value2" selected>Gentle Glide - Super</option>
+  <option value="value3">Gentle Glide - Super Plus</option>
+</select>
